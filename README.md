@@ -9,4 +9,5 @@ Black Friday is a shopping holiday  that takes place on the day after Thanksgivi
 The dataset that we are having contains 537578 rows and 12 columns.
 Our main goal will be to do various kind of analysis and get inferences which will be able to help to provide valuable insights on the market and hence will be beneficial for the company.
 
- 
+# Project 3:Heart Disease EDA
+This database contains 12 attributes and available in Kaggle .The field 'HeartDisease' contains boolean values indicating whether the patient has a heart disease or not.The main goal is to perform exploratory data analysis(EDA) on this dataset which depicts the correlation between the attributes in determining the prescence of heart disease.
